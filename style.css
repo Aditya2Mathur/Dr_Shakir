@@ -1436,7 +1436,6 @@ body {
   border-radius: 3px;
   margin: 0 0 0 -52px;
   margin-top: 49px;
-  box-sizing: ;
 }
 .testimonials .owl-dots .owl-dot {
   display: inline-block;
@@ -1553,8 +1552,7 @@ body {
 .departments .department-tab .tab-pane .department-left p {
   margin-bottom: 20px;
 }
-.departments .department-tab .tab-pane .department-left .list {
-}
+
 .departments .department-tab .tab-pane .department-left .list li {
   position: relative;
   padding-left: 30px;
@@ -1737,7 +1735,6 @@ body {
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  margin-top: 30px;
   text-align: center;
   box-shadow: 0px 0px 10px #00000021;
   border-radius: 5px;
